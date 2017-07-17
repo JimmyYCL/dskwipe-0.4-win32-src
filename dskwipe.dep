@@ -1,0 +1,7 @@
+# Microsoft Developer Studio Generated Dependency File, included by dskwipe.mak
+
+.\dskwipe.cpp : \
+	"..\shared\getopt.h"\
+	"..\shared\ver_defaults.h"\
+	".\version.h"\
+	
